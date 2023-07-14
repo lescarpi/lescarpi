@@ -2,8 +2,6 @@
 
 **`Estudante de Ciência da Computação / Desenvolvedor`**
 
-![](https://github.com/lescarpi/lescarpi/blob/main/robo.gif)
-
 ---
 
 ### 🕹️ Tecnologias
