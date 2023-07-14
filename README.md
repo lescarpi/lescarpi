@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação / Desenvolvedor`**
 
-![](https://github.com/lescarpi/robo.gif)
+![](https://github.com/lescarpi/lescarpi/blob/main/robo.gif)
 
 ---
 
