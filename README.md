@@ -2,6 +2,8 @@
 
 **`Estudante de Ciência da Computação / Desenvolvedor`**
 
+![](https://github.com/lescarpi/robo.gif)
+
 ---
 
 ### 🕹️ Tecnologias
@@ -22,3 +24,5 @@
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lescarpi&show_icons=true&theme=synthwave)
 
 #
+
+<a href="https://www.linkedin.com/in/leandro-scarpi-granelli-a01584215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
